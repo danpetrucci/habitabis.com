@@ -1,0 +1,458 @@
+.div-block {
+  position: relative;
+  z-index: 999;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.header {
+  position: relative;
+  z-index: 999;
+  padding-top: 15px;
+  background-color: #fff;
+}
+
+.image {
+  width: 240px;
+}
+
+.image-2 {
+  width: 300px;
+  margin-top: 2px;
+}
+
+.centertittle {
+  margin-bottom: 40px;
+  font-family: Barlow, sans-serif;
+  text-align: center;
+}
+
+.centertittle.white {
+  color: #fff;
+}
+
+.paragraph {
+  margin-bottom: 19px;
+  font-family: Varela, sans-serif;
+  color: #535353;
+  font-size: 16px;
+  text-align: justify;
+}
+
+.paragraph.contactmod {
+  padding-right: 25px;
+}
+
+.paragraph.contact {
+  padding-top: 15px;
+}
+
+.section {
+  background-color: #468992;
+}
+
+.paragraph-2 {
+  font-family: Varela, sans-serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 29px;
+  text-align: left;
+}
+
+.content_section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.content_section.green {
+  background-color: #5ba1ab;
+}
+
+.content_section.section_divider {
+  border-top: 2px solid #cacaca;
+  background-color: #5ba1ab;
+}
+
+.content_section.grey {
+  background-color: #f5f5f5;
+}
+
+.content_section.withdivider {
+  border-top: 1px solid #5ba1ab;
+}
+
+.div-block-2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.separador {
+  width: 100%;
+  height: 40px;
+}
+
+.heading {
+  margin-top: 26px;
+  font-family: Barlow, sans-serif;
+}
+
+.heading-2 {
+  font-family: Barlow, sans-serif;
+}
+
+.slider {
+  height: 500px;
+  margin-bottom: 50px;
+}
+
+.slide_text {
+  padding-top: 20%;
+  padding-right: 10%;
+  padding-left: 10%;
+  font-family: Barlow, sans-serif;
+  color: #fff;
+  font-size: 50px;
+  line-height: 50px;
+  text-shadow: -1px 2px 9px #000;
+}
+
+.slide {
+  background-image: url('../images/testamento-donacion-rentabilidad-informacion-educacion-financiera-bbva.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+.small_divider {
+  width: 20%;
+  height: 2px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #e2e2e2;
+}
+
+.slide-2 {
+  background-image: url('../images/coins-currency-investment-insurance.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+.slide-3 {
+  background-image: url('../images/document-agreement-documents-sign-48148.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slide-4 {
+  background-image: url('../images/pexels-photo-429248.jpg');
+  background-position: 50% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slide-5 {
+  background-image: url('../images/banner-quality.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slide-6 {
+  background-image: url('../images/GVCs-4.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slide-7 {
+  background-image: url('../images/pexels-photo-247851.jpg');
+  background-position: 100% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.text-span {
+  color: #fff;
+  font-size: 28px;
+}
+
+.slide-8 {
+  background-image: url('../images/choosing-a-real-esate-agent.jpg');
+  background-position: 50% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+.slider-2 {
+  height: 650px;
+  margin-top: 8%;
+}
+
+.div-block-3 {
+  height: 60px;
+  background-color: #5ba1ab;
+}
+
+.text-block {
+  padding-top: 20px;
+  font-family: Barlow, sans-serif;
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+}
+
+.nav-menu {
+  float: none;
+}
+
+.container {
+  text-align: center;
+}
+
+.navbar {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  z-index: 999;
+  width: 100%;
+  background-color: #fff;
+}
+
+.nav {
+  font-family: Varela, sans-serif;
+  color: #7a7a7a;
+}
+
+.nav:hover {
+  color: #5ba1ab;
+}
+
+.div-block-4 {
+  text-align: center;
+}
+
+.row {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.column {
+  padding-top: 30px;
+}
+
+.bold-text {
+  color: #000;
+}
+
+.bold-text-2 {
+  color: #000;
+}
+
+.submit {
+  background-color: #5ba1ab;
+}
+
+.servicios_heading {
+  color: #fcfcfc;
+  font-size: 23px;
+  line-height: 26px;
+}
+
+.services_link {
+  text-align: center;
+  text-decoration: none;
+}
+
+.column-2 {
+  text-align: center;
+}
+
+.column-3 {
+  text-align: center;
+}
+
+.column-4 {
+  text-align: center;
+}
+
+.column-5 {
+  text-align: center;
+}
+
+.column-6 {
+  text-align: center;
+}
+
+.column-7 {
+  text-align: center;
+}
+
+.row-2 {
+  margin-top: 35px;
+}
+
+.rich-text-block {
+  font-family: Varela, sans-serif;
+  text-align: justify;
+}
+
+.div-block-5 {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  margin-bottom: 30px;
+  background-image: url('../images/pexels-photo-101808.jpg');
+  background-position: 50% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.container-2 {
+  font-family: Varela, sans-serif;
+}
+
+.column-8 {
+  position: static;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 1;
+  margin-top: 20px;
+  padding-right: 0px;
+  padding-left: 5%;
+}
+
+.column-9 {
+  margin-top: 90px;
+  padding-left: 20%;
+}
+
+.text-span-2 {
+  font-size: 65px;
+}
+
+.text-span-3 {
+  font-size: 62px;
+}
+
+.text-span-4 {
+  font-size: 62px;
+}
+
+.text-span-5 {
+  font-size: 62px;
+}
+
+.text-span-6 {
+  font-size: 62px;
+}
+
+.text-span-7 {
+  font-size: 62px;
+}
+
+.column-10 {
+  padding-left: 20px;
+  text-align: justify;
+}
+
+.div-block-6 {
+  position: relative;
+  left: -20px;
+  padding-top: 50px;
+  padding-right: 25px;
+}
+
+.slide-9 {
+  background-image: url('../images/trust.jpg');
+  background-position: 50% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+.column-11 {
+  padding-top: 12%;
+}
+
+.image-4 {
+  position: relative;
+  left: 20px;
+  right: 0px;
+}
+
+.div-block-7 {
+  position: static;
+  height: 700px;
+  background-image: url('../images/Casas-Modernas-7.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.form-block {
+  padding-top: 41px;
+}
+
+.rich-text-block-2 {
+  text-align: justify;
+}
+
+.div-block-8 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.column-12 {
+  padding-right: 10%;
+}
+
+.subpage-div {
+  position: absolute;
+  bottom: 30%;
+  z-index: 1;
+  width: 100%;
+  text-align: center;
+}
+
+.subpage-tittle {
+  color: #fff;
+  font-size: 80px;
+  line-height: 80px;
+  text-shadow: 1px 1px 6px #000;
+}
+
+@media (max-width: 991px) {
+  .image-2 {
+    width: 200px;
+  }
+}
+
+@media (max-width: 767px) {
+  .image-2 {
+    width: 150px;
+  }
+  .content_section.grey {
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+}
+
+@media (max-width: 479px) {
+  .image-2 {
+    width: 150px;
+  }
+  .content_section.green {
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+}
+
