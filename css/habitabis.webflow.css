@@ -533,6 +533,9 @@
   .column-9 {
     padding-left: 0%;
   }
+  .column-10 {
+    padding-right: 20px;
+  }
   .div-block-6 {
     left: 10px;
   }
@@ -565,6 +568,9 @@
   .slider-2 {
     margin-top: 35%;
   }
+  .column {
+    padding-top: 0px;
+  }
   .column-8 {
     padding-right: 0%;
     padding-left: 0%;
@@ -572,13 +578,15 @@
   .column-9 {
     padding-left: 2%;
   }
+  .column-10 {
+    padding-right: 20px;
+  }
   .form-block {
-    padding-right: 5%;
-    padding-left: 5%;
+    padding-right: 0%;
+    padding-left: 0%;
   }
   .rich-text-block-2 {
-    padding-right: 5%;
-    padding-left: 5%;
+    text-align: left;
   }
   .column-12 {
     padding-right: 5%;
@@ -586,6 +594,10 @@
   .subpage-tittle {
     font-size: 40px;
     line-height: 50px;
+  }
+  .div-block-9 {
+    padding-right: 5%;
+    padding-left: 5%;
   }
 }
 
