@@ -489,9 +489,25 @@
   background-attachment: fixed;
 }
 
+.consignabg {
+  height: 700px;
+  background-image: url('../images/consignacion.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.downlink {
+  background-color: #fff;
+  color: #086392;
+}
+
 @media (max-width: 991px) {
   .image-2 {
     width: 200px;
+  }
+  .nav-menu {
+    background-color: #fafafa;
   }
 }
 
