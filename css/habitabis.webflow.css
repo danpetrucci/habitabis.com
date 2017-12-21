@@ -389,10 +389,10 @@
   right: 0px;
 }
 
-.div-block-7 {
+.avaluosbg {
   position: static;
   height: 700px;
-  background-image: url('../images/Casas-Modernas-7.jpg');
+  background-image: url('../images/avaluos.jpg');
   background-position: 0px 0px;
   background-size: cover;
   background-attachment: fixed;
@@ -428,6 +428,65 @@
   font-size: 80px;
   line-height: 80px;
   text-shadow: 1px 1px 6px #000;
+}
+
+.comprabg {
+  height: 700px;
+  background-image: url('../images/compra.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.segurosbg {
+  height: 700px;
+  background-image: url('../images/Casas-Modernas-7.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.ventabg {
+  height: 700px;
+  background-image: url('../images/venta.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.arriendobg {
+  height: 700px;
+  background-image: url('../images/arriendo.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.creditosbg {
+  height: 700px;
+  background-image: url('../images/creditos.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.tramitesbg {
+  height: 700px;
+  background-image: url('../images/tramites.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.asesoriabg {
+  height: 700px;
+  background-image: url('../images/asesoria.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 @media (max-width: 991px) {
