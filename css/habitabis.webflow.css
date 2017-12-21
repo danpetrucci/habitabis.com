@@ -502,6 +502,10 @@
   color: #086392;
 }
 
+.downlink:hover {
+  color: #000;
+}
+
 @media (max-width: 991px) {
   .image-2 {
     width: 200px;
