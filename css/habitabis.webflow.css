@@ -519,9 +519,31 @@
   .image-2 {
     width: 150px;
   }
+  .content_section.section_divider {
+    padding-bottom: 0px;
+  }
   .content_section.grey {
     padding-right: 5%;
     padding-left: 5%;
+  }
+  .slider-2 {
+    height: 450px;
+    margin-top: 15%;
+  }
+  .column-9 {
+    padding-left: 0%;
+  }
+  .div-block-6 {
+    left: 10px;
+  }
+  .image-4 {
+    left: 0px;
+  }
+  .column-13 {
+    text-align: center;
+  }
+  .column-14 {
+    text-align: center;
   }
 }
 
@@ -529,9 +551,41 @@
   .image-2 {
     width: 150px;
   }
+  .centertittle.white {
+    font-size: 35px;
+  }
   .content_section.green {
     padding-right: 5%;
     padding-left: 5%;
+  }
+  .slide_text {
+    padding-left: 20%;
+    font-size: 40px;
+  }
+  .slider-2 {
+    margin-top: 35%;
+  }
+  .column-8 {
+    padding-right: 0%;
+    padding-left: 0%;
+  }
+  .column-9 {
+    padding-left: 2%;
+  }
+  .form-block {
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+  .rich-text-block-2 {
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+  .column-12 {
+    padding-right: 5%;
+  }
+  .subpage-tittle {
+    font-size: 40px;
+    line-height: 50px;
   }
 }
 
