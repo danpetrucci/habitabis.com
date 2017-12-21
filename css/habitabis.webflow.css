@@ -563,7 +563,8 @@
   }
   .slide_text {
     padding-left: 20%;
-    font-size: 40px;
+    font-size: 30px;
+    line-height: 40px;
   }
   .slider-2 {
     margin-top: 35%;
@@ -572,8 +573,8 @@
     padding-top: 0px;
   }
   .column-8 {
-    padding-right: 0%;
-    padding-left: 0%;
+    padding-right: 5%;
+    padding-left: 5%;
   }
   .column-9 {
     padding-left: 2%;
@@ -582,6 +583,7 @@
     padding-right: 20px;
   }
   .form-block {
+    padding-top: 20px;
     padding-right: 0%;
     padding-left: 0%;
   }
